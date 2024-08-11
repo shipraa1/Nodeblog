@@ -15,8 +15,7 @@ git clone https://github.com/shipraa1/Nodeblog
 
 
 ### Screenshots
-
-
+![Screenshot_of_Nodeblog](https://github.com/user-attachments/assets/09513ecc-b9e4-4b47-8081-10cc8b130e68)
 
 ### Future
 - Adding Dark Mode theme.
