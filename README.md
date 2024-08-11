@@ -8,14 +8,16 @@
 - Adding CK Editor for post body.
 - Custome Style for the Application
 
-### How to run 
+### How to clone
 ```
 # Clone the repository 
 git clone https://github.com/shipraa1/Nodeblog
+# How to clone arepo
+```
 
 
 ### Screenshots
-![Screenshot_of_Nodeblog](https://github.com/user-attachments/assets/09513ecc-b9e4-4b47-8081-10cc8b130e68)
+![image](https://github.com/user-attachments/assets/46bd5620-08c4-4a37-8305-580ab4ebcffd)
 
 ### Future
 - Adding Dark Mode theme.
